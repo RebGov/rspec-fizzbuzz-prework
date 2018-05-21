@@ -1,4 +1,4 @@
-def fizzbuzz(x)
+def fizzbuzz
  # if x / 3 = 
  end
   
